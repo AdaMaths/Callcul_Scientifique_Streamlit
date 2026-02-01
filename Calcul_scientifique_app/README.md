@@ -1,1 +1,0 @@
-# Calcul_scientifique_app
